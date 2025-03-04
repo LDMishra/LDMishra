@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-Link to Medium : <a href="https://medium.com/@ldmishra/aws-video-sharing-platform-25d02e9ff732"> Cloud and Beyond </a><br>
+Link to Medium : <a href="https://medium.com/@ldmishra/cloud-engineering-and-beyond-904ae7c076fc"> Cloud Engineering and Beyond </a><br>
+Link to Medium : <a href="https://medium.com/@ldmishra/aws-video-sharing-platform-25d02e9ff732"> Video Sharing Platform </a><br>
 
 <h2>📺 Certifications</h2>
 1. Certified Scrum Master <BR>
