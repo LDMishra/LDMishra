@@ -13,12 +13,14 @@ CloudFormation Infrastructure as Code: <a href="https://medium.com/@ldmishra/aws
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][Mail]
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[E-mail]: https://www.youtube.com/LDMishara
-[youtube]: https://www.youtube.com/LDMishara
+[Medium]: https://medium.com/@ldmishra
+[Mail]: MailTO:LDMishra@gmail.com
+[youtube]: https://www.youtube.com/LDMishra
 [linkedin]: https://linkedin.com/in/LD-Mishra
 
 <!--
